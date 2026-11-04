@@ -1,0 +1,159 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch15_Python_Codes/Bk3_Ch15_01.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch15_01.ipynb",
+    "checked_at": "2026-10-31T20:42:33.0527238+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch15_Python_Codes/Bk3_Ch15_02.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch15_02.ipynb",
+    "checked_at": "2026-10-31T20:42:38.1387609+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch15_Python_Codes/Bk3_Ch15_03.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch15_03.ipynb",
+    "checked_at": "2026-10-31T20:42:43.1491034+08:00",
+    "status": 200,
+    "bytes": 102045,
+    "sha256": "0918E5CB62C51040B242E512399DA7EB9CCF934FAA9648EDD3D697EEFE7A97C6",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch15_Python_Codes/Bk3_Ch15_04.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch15_04.ipynb",
+    "checked_at": "2026-10-31T20:42:44.9504023+08:00",
+    "status": 200,
+    "bytes": 56083,
+    "sha256": "9178E2C9FDC81E4EA057C48608573AB0BADD989AAC40F6D9BBA01912525B0154",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch18_Python_Codes/Bk3_Ch18_01.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch18_01.ipynb",
+    "checked_at": "2026-10-31T20:42:46.4529995+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch18_Python_Codes/Bk3_Ch18_02.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch18_02.ipynb",
+    "checked_at": "2026-10-31T20:42:51.4695956+08:00",
+    "status": 200,
+    "bytes": 75316,
+    "sha256": "AB1789A04E7B9C3365971FB87015D3A434812275D76746DC91B7001EA47ACB40",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch18_Python_Codes/Bk3_Ch18_03.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch18_03.ipynb",
+    "checked_at": "2026-10-31T20:42:55.8587613+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch18_Python_Codes/Bk3_Ch18_04.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch18_04.ipynb",
+    "checked_at": "2026-10-31T20:43:00.8665861+08:00",
+    "status": 200,
+    "bytes": 5043,
+    "sha256": "CE874D3F0D912285F07AFBBABF5140E806184036EBD5650FC5B4D784681A52AD",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book3_Elements-of-Mathematics/main/Book3_Ch18_Python_Codes/Bk3_Ch18_05.ipynb",
+    "path": "downloads/iris_book3/Bk3_Ch18_05.ipynb",
+    "checked_at": "2026-10-31T20:43:02.8394375+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/_2017/eoc/chapter2.py",
+    "path": "downloads/3b1b/chapter2_derivative.py",
+    "checked_at": "2026-10-31T20:43:07.8490892+08:00",
+    "status": 200,
+    "bytes": 82051,
+    "sha256": "A86FA86F68525930466F3080FE241CAE55C733CF8EDEE7C2B18119085E8D3618",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/_2017/eoc/chapter8.py",
+    "path": "downloads/3b1b/chapter8_integral.py",
+    "checked_at": "2026-10-31T20:43:08.9779844+08:00",
+    "status": 200,
+    "bytes": 85165,
+    "sha256": "800B851647EF412F350C63E89486A938FF7D784763F9B8FBBCEBB9A40E8E4E3A",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/_2016/eola/chapter3.py",
+    "path": "downloads/3b1b/chapter3_linear_transform.py",
+    "checked_at": "2026-10-31T20:43:10.0708255+08:00",
+    "status": 200,
+    "bytes": 57167,
+    "sha256": "14EC807474E7374F44C595CF22EC6465D9C6B5BC68EE9FBB269D55AA16A77796",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/_2016/eola/chapter10.py",
+    "path": "downloads/3b1b/chapter10_eigenvectors.py",
+    "checked_at": "2026-10-31T20:43:22.1407728+08:00",
+    "status": 200,
+    "bytes": 77521,
+    "sha256": "50F2846555866F54F4CC657EF1A65EFE7B5888B8061AAC2116E9B79741F35CD6",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/LICENSE",
+    "path": "downloads/3b1b/LICENSE",
+    "checked_at": "2026-10-31T20:43:28.3954139+08:00",
+    "ok": false,
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/3b1b/videos/master/README.md",
+    "path": "downloads/3b1b/README_upstream.md",
+    "checked_at": "2026-10-31T20:43:34.3200553+08:00",
+    "ok": false,
+    "error": "The SSL connection could not be established, see inner exception."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/main/galleries/examples/animation/simple_anim.py",
+    "path": "downloads/matplotlib/simple_anim.py",
+    "checked_at": "2026-10-31T20:43:39.3274646+08:00",
+    "status": 200,
+    "bytes": 1572,
+    "sha256": "ED5E5DC9ADC3E84619762F602A0B503F55742F2C242B267A63AC0DD6EC9A12D7",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/main/galleries/examples/animation/double_pendulum.py",
+    "path": "downloads/matplotlib/double_pendulum.py",
+    "checked_at": "2026-10-31T20:43:41.4541674+08:00",
+    "status": 200,
+    "bytes": 2989,
+    "sha256": "7BFE2E5BD1D67B6B51593AEACFD82BE2256E75A49BFC00C0D8682A6E83C5AD8D",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/main/galleries/examples/widgets/slider_demo.py",
+    "path": "downloads/matplotlib/slider_demo.py",
+    "checked_at": "2026-10-31T20:43:46.8638759+08:00",
+    "status": 200,
+    "bytes": 2195,
+    "sha256": "733407FD81F008EF52AFA5E1CFBC7573BDB6CB06CF975432009BED74C098F874",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/main/galleries/examples/images_contours_and_fields/plot_streamplot.py",
+    "path": "downloads/matplotlib/plot_streamplot.py",
+    "checked_at": "2026-10-31T20:43:54.3029394+08:00",
+    "status": 200,
+    "bytes": 5338,
+    "sha256": "C8743FD982C7E21CA01F6BE78D2FADC0F90272518E356B722F7E30917034BBD6",
+    "ok": true
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch15_01.ipynb",
+    "bytes": 31929,
+    "sha256": "B892B882385E13724EB1C12E5764E69BC3650B623FBC4DB751FCC07FB1665C29",
+    "checked_at": "2026-10-31T20:47:38.7441313+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch15_02.ipynb",
+    "bytes": 38339,
+    "sha256": "BD3E67A2BD4ED7082BB5B12EAF32C5597FA7BAD1E4DE9F1FC033C840F49DA524",
+    "checked_at": "2026-10-31T20:47:38.7452057+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch15_03.ipynb",
+    "bytes": 102045,
+    "sha256": "0918E5CB62C51040B242E512399DA7EB9CCF934FAA9648EDD3D697EEFE7A97C6",
+    "checked_at": "2026-10-31T20:47:38.7456408+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch15_04.ipynb",
+    "bytes": 56083,
+    "sha256": "9178E2C9FDC81E4EA057C48608573AB0BADD989AAC40F6D9BBA01912525B0154",
+    "checked_at": "2026-10-31T20:47:38.7459609+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch18_01.ipynb",
+    "bytes": 32779,
+    "sha256": "E80A46E9E969C104C8B5B2485ED89221E4CEB5F8D485534A39CAB0256A5081A4",
+    "checked_at": "2026-10-31T20:47:38.7462588+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch18_02.ipynb",
+    "bytes": 75316,
+    "sha256": "AB1789A04E7B9C3365971FB87015D3A434812275D76746DC91B7001EA47ACB40",
+    "checked_at": "2026-10-31T20:47:38.7465633+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch18_03.ipynb",
+    "bytes": 38114,
+    "sha256": "D387794D91FDF81F5EF722D5A6691748C6BFF28E12885708759413D871E53B71",
+    "checked_at": "2026-10-31T20:47:38.7468318+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch18_04.ipynb",
+    "bytes": 5043,
+    "sha256": "CE874D3F0D912285F07AFBBABF5140E806184036EBD5650FC5B4D784681A52AD",
+    "checked_at": "2026-10-31T20:47:38.7470706+08:00"
+  },
+  {
+    "path": "visual_lab\\downloads\\iris_book3\\Bk3_Ch18_05.ipynb",
+    "bytes": 4991,
+    "sha256": "B3663C29C6140C7D8194EA268EF5853149A421C9A45883530B4982701C078779",
+    "checked_at": "2026-10-31T20:47:38.7473019+08:00"
+  }
+]

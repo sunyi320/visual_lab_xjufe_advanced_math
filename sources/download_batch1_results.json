@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book4_Power-of-Matrix/main/Book4_Ch08_Python_Codes/Streamlit_Bk4_Ch08_02.py",
+    "path": "downloads/iris_book4/Streamlit_Bk4_Ch08_02.py",
+    "checked_at": "2026-10-31T20:39:31.4408555+08:00",
+    "status": 200,
+    "bytes": 4417,
+    "sha256": "EDB6E5A113FB2A935CB5888507FB597085E186FCC6967E392A4E8C29E664A438",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book4_Power-of-Matrix/main/Book4_Ch08_Python_Codes/Streamlit_Bk4_Ch08_03.py",
+    "path": "downloads/iris_book4/Streamlit_Bk4_Ch08_03.py",
+    "checked_at": "2026-10-31T20:39:33.5612011+08:00",
+    "status": 200,
+    "bytes": 5216,
+    "sha256": "11E5E93DEF5AF19092F17FD82E3C1FAE01FD73CD3DD11180E263042CF59869B1",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book4_Power-of-Matrix/main/Book4_Ch08_Python_Codes/Bk4_Ch08_01.ipynb",
+    "path": "downloads/iris_book4/Bk4_Ch08_01.ipynb",
+    "checked_at": "2026-10-31T20:39:35.6162329+08:00",
+    "status": 200,
+    "bytes": 315588,
+    "sha256": "4455BD808DA31269F02902D5FDB4B9E3771A3089CCF86679CD3E0A55B7EBEEAA",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book4_Power-of-Matrix/main/Book4_Ch15_Python_Codes/Bk4_Ch15_01.ipynb",
+    "path": "downloads/iris_book4/Bk4_Ch15_01.ipynb",
+    "checked_at": "2026-10-31T20:39:39.5316478+08:00",
+    "status": 200,
+    "bytes": 324636,
+    "sha256": "C4E61838D2923534784277413458AA40016F515465D5D66A450BDEFA30515FF6",
+    "ok": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Visualize-ML/Book4_Power-of-Matrix/main/Book4_Ch15_Python_Codes/Bk4_Ch15_02.ipynb",
+    "path": "downloads/iris_book4/Bk4_Ch15_02.ipynb",
+    "checked_at": "2026-10-31T20:39:40.9831038+08:00",
+    "status": 200,
+    "bytes": 168467,
+    "sha256": "5088EDA7378FC0B88042AA225422E3CF4F22E2D4481CF53920473A79E24F18C0",
+    "ok": true
+  },
+  {
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics/tree/main/Book3_Ch15_Python_Codes",
+    "path": "sources/book3_ch15_listing.html",
+    "checked_at": "2026-10-31T20:39:45.8630394+08:00",
+    "status": 200,
+    "bytes": 189096,
+    "sha256": "EDFD0BCE472AACFDB3093B93B89C0D0E42C9B2BB25F1DE0C7284E53056A60F47",
+    "ok": true
+  },
+  {
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics/tree/main/Book3_Ch18_Python_Codes",
+    "path": "sources/book3_ch18_listing.html",
+    "checked_at": "2026-10-31T20:39:47.4903231+08:00",
+    "status": 200,
+    "bytes": 199828,
+    "sha256": "2C8691B982AE8173D4E23E163E8EFB7F5211D7F750B9F5A9CD9F7EB8FA489F95",
+    "ok": true
+  }
+]

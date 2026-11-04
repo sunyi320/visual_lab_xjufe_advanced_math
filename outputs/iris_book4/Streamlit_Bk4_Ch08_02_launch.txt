@@ -1,0 +1,2 @@
+Run from visual_lab with:
+python -m streamlit run downloads/iris_book4/Streamlit_Bk4_Ch08_02.py

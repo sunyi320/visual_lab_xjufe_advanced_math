@@ -1,0 +1,19 @@
+category,topic,title,format,local_path_or_url,notes
+高等数学,导数/切线,3Blue1Brown Essence of Calculus,Manim源码,downloads/3b1b/chapter2_derivative.py,适合导数和切线动态讲解
+高等数学,积分,3Blue1Brown Essence of Calculus,Manim源码,downloads/3b1b/chapter8_integral.py,适合面积和积分直观
+线性代数,线性变换,3Blue1Brown Essence of Linear Algebra,Manim源码,downloads/3b1b/chapter3_linear_transform.py,平面网格和变换
+线性代数,特征向量,3Blue1Brown Essence of Linear Algebra,Manim源码,downloads/3b1b/chapter10_eigenvectors.py,特征方向直观
+线性代数,平面几何变换,鸢尾花书 Book4 Ch08,Streamlit/Python,downloads/iris_book4/Streamlit_Bk4_Ch08_02.py,Plotly交互
+线性代数,平面几何变换,鸢尾花书 Book4 Ch08,Jupyter,downloads/iris_book4/Bk4_Ch08_01.ipynb,网格/单位圆变换
+线性代数,SVD,SVD几何意义,Jupyter,downloads/iris_book4/Bk4_Ch15_01.ipynb,分解的逐步几何效果
+线性代数,SVD,SVD性质,Jupyter,downloads/iris_book4/Bk4_Ch15_02.ipynb,正交性和奇异值投影
+高等数学,多元微积分,Math Insight,交互网页,https://mathinsight.org/,梯度/曲面/积分等
+高等数学,微积分/微分方程,Mathlets,交互网页,https://mathlets.org/mathlets/,需检查浏览器兼容性
+线性代数,系统教材,Immersive Linear Algebra,交互教材,https://immersivemath.com/ila/index.html,动画和交互图示
+线性代数,系统教材,Interactive Linear Algebra,在线教材,https://textbooks.math.gatech.edu/ila/,Georgia Tech教材
+高等数学,向量场,Paul Falstad Vector Field,交互模拟,https://www.falstad.com/vector/,流线/场线
+高等数学,动画基础,Matplotlib官方动画,Python源码,downloads/matplotlib/simple_anim.py,FuncAnimation
+高等数学,参数动画,Matplotlib滑块,Python源码,downloads/matplotlib/slider_demo.py,适合函数参数交互
+高等数学,向量场/流线,Matplotlib streamplot,Python源码,downloads/matplotlib/plot_streamplot.py,二维向量场
+微积分,章节代码,鸢尾花书 Book3 Ch15,目录快照,sources/book3_ch15_listing.html,从仓库选择具体笔记本
+微积分,章节代码,鸢尾花书 Book3 Ch18,目录快照,sources/book3_ch18_listing.html,从仓库选择具体笔记本
